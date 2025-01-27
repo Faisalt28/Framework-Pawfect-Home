@@ -1,4 +1,4 @@
-# Pawfect Hone- Aplikasi Adopsi Hewan Berbasis Website
+# Pawfect Home- Aplikasi Adopsi Hewan Berbasis Website
 
 **Pawfect** adalah aplikasi berbasis website yang memungkinkan pengguna untuk mencari dan mengadopsi hewan peliharaan dengan mudah. Aplikasi ini menyediakan daftar hewan yang tersedia untuk diadopsi, memungkinkan pengguna untuk melihat profil hewan, dan mengajukan permohonan adopsi secara online.
 
