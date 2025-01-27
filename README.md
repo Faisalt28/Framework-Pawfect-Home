@@ -12,7 +12,7 @@
 - **Frontend**: HTML, CSS, JavaScript, React.js
 - **Backend**: Node.js, Laravel
 - **Database**: Mysql
-- **Hosting**: GitHub Pages 
+- **Hosting**: https://pawfect-home.ummi-ti-22.site
 
 ## Cara Menggunakan
 1. Kunjungi [Website Pawfect]([http://link-ke-website-anda.com](https://pawfect-home.ummi-ti-22.site)).
